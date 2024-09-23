@@ -1,0 +1,114 @@
+.daraz{
+  width: 40%;
+}
+
+nav{
+  background: #F85606;
+}
+
+.box{
+  width: 350px;
+}
+.box1{
+  background: #F85606;
+}
+
+.catlist{
+  height: 400px;
+  overflow: auto;
+  width: 250px;
+}
+.pic img{
+  transition: 0.9s;
+
+}
+
+.pic:hover img{
+  transform: scale(1.2);
+}
+.pic{
+  overflow: hidden;
+  
+}
+.pic1{
+  width: 300px;
+  height: 360px;
+}
+.box1:hover 
+{
+  background: green;
+
+}
+
+.single{
+  width: 350px;
+}
+
+.pic img{
+  width: 80%;
+}
+
+.head{
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+}
+.list{
+  list-style: none;
+}
+.daraz1{
+  padding-top: 5px;
+  width: 10%;
+  height: 40px
+}
+footer{
+  position: sticky;
+
+
+}
+
+.happy{
+  color: #F85606;
+}
+.w2{
+  width: 200px;
+  height: 60px;
+}
+.w1{
+  width: 200px;
+  height: 50px;
+}
+
+
+.title{
+  font-size: 15px;
+}
+
+ul{
+  list-style: none;
+}
+
+.icon{
+  height: 4rem;
+  width: 5rem;
+}
+.icon2{
+  height: 4rem;
+  width: 4rem;
+ padding: 5px;
+ align-items: center;
+}
+
+.list2{
+  width: 80px;
+  height: 60px;
+}
+
+.w2{
+  width: 10%;
+}
+.icon3{
+  height: 2rem;
+  width: 2rem;
+}
+
